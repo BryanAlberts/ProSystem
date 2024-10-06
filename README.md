@@ -44,7 +44,6 @@
 
 
 <!-- 🔗 Resource Links -->
-<br />
 <div align="center">
 
 🤖 Demo Bot: Invite Here
