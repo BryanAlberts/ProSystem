@@ -36,7 +36,7 @@
 ## About The Project
 
 
-(https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)
+[![Product Name Screen Shot][(https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)]](ProSystem)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
