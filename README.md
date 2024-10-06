@@ -43,7 +43,8 @@
 
 
 
- <!-- 🔗 Resource Links -->
+ <!-- ABOUT THE PRO2JECT -->
+## About The Project
  <p align="center">
 
 
