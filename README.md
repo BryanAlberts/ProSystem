@@ -40,6 +40,9 @@
 
 <br /> Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
 
+ </p>
+</div>
+
 
 <!-- 🔗 Resource Links -->
  <p align="center">
