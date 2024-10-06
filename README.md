@@ -7,7 +7,7 @@
 <div align="center">
   <a href="[1gEF1JO](https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)"
 ">
-    <img src="https://imgur.com/A1vNuBI.png" alt="Logo" width="80" height="80">
+    <img src="[https://imgur.com/A1vNuBI](https://imgur.com/RsuYAQl).png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ProSystem</h3>
