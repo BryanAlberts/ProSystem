@@ -49,6 +49,8 @@
 
 ## 🤖 ProSystem: [Invite Link](https://discord.com/oauth2/authorize?client_id=1131317895679442945&permissions=564465339198582&integration_type=0&scope=bot+applications.commands)
 
+ </p>
+</div>
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
