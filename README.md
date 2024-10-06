@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[1gEF1JO](https://github.com/user-attachments/assets/4d48a8f4-d1ae-4264-b721-6c9fd1a47c89)
+  <a href="[1gEF1JO](https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)
 ">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
@@ -36,7 +36,7 @@
 ## About The Project
 ![1gEF1JO](https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)
 
-[![Product Name Screen Shot][product-screenshot]](![1gEF1JO](https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01))
+[![Product Name Screen Shot][product-screenshot]]![1gEF1JO](https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
