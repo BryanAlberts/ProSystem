@@ -59,7 +59,7 @@ Here's why:
 
 Of course, no one bot will serve all server since your needs may be different. So I'll be adding more in the near future. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
