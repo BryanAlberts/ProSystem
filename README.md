@@ -35,17 +35,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
  <p align="center">
+
+<br /> ProSystem is a multipurpose Discord bot with a wide range of features including security automoderations, moderation tools, verification, utility, and fun commands
+
 <br /> Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
 
 
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You shouldn't be doing the same tasks over and over like creating a Server from scratch
 * You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
+Of course, no one bot will serve all server since your needs may be different. So I'll be adding more in the near future. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
