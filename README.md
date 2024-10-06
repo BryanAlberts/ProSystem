@@ -47,8 +47,8 @@
 <br />
 <div align="center">
 
-## 🤖 Demo Bot: Invite Here
-## 🤝 Support Server: Join Here
+🤖 Demo Bot: Invite Here
+🤝 Support Server: Join Here
 
 
 
