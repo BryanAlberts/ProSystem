@@ -34,11 +34,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Discord.js v14 
+Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
 
 
-[![Product Name Screen Shot][(https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)]](ProSystem)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
