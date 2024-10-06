@@ -54,6 +54,9 @@
 
 
 
+ <!-- ABOUT THE PROJECT -->
+## 🚀 Here's why:
+ <p align="center">
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
