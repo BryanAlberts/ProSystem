@@ -18,7 +18,7 @@
   <h3 align="center">ProSystem</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome multi-purpose Discord Bot — Done Right!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
