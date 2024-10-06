@@ -43,7 +43,8 @@
 
 
 
-<!-- 🔗 Resource Links -->
+  </p>
+</div> <!-- 🔗 Resource Links -->
 <div align="center">
 🤖 Demo Bot: Invite Here
 🤝 Support Server: Join Here
