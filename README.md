@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[1gEF1JO](https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)
+  <a href="[1gEF1JO](https://github.com/user-attachments/assets/57e6c48e-7ebb-45e4-954c-e5303817dd01)"
 ">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
