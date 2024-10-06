@@ -43,9 +43,7 @@
 
 
 
-  </p>
-</div> <!-- 🔗 Resource Links -->
-<div align="center">
+ <!-- 🔗 Resource Links -->
 🤖 Demo Bot: Invite Here
 🤝 Support Server: Join Here
 
