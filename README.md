@@ -11,7 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://imgur.com/1gEF1JO.png">
+  <a href="![1gEF1JO](https://github.com/user-attachments/assets/4d48a8f4-d1ae-4264-b721-6c9fd1a47c89)
+">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
