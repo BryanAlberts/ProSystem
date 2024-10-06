@@ -20,7 +20,7 @@
 
   <p align="center">
     An awesome multi-purpose Discord Bot — Done Right!
-    <br /> Discord.js v14 Bot
+    <br /> Discord.js v14
     <a 
     <br />
     <br />
@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
+<br /> Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
 
 
 
