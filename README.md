@@ -44,8 +44,10 @@
 
 
  <!-- 🔗 Resource Links -->
-🤖 Demo Bot: Invite Here
-🤝 Support Server: Join Here
+ <p align="center">
+
+# 🤖 Demo Bot: Invite Here
+# 🤝 Support Server: Join Here
 
 
 
