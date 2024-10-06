@@ -47,6 +47,9 @@
 ## 🔗 Resource Links
  <p align="center">
 
+🤖 ProSystem: [InviteLink](https://discord.com/oauth2/authorize?client_id=1131317895679442945&permissions=564465339198582&integration_type=0&scope=bot+applications.commands)
+🤝 Support Server: [Link](https://discord.gg/DcbdzPWDaJ)
+🤝 Main Server for business inquiries:[Link](https://discord.gg/MmECxHDXEc)
 
 
 
