@@ -49,7 +49,7 @@
 
 
  <!-- ABOUT THE PROJECT -->
-## 🚀 Here's why.:
+## 🚀 Here's why:
  <p align="center">
 
 Here's why:
