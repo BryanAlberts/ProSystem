@@ -32,17 +32,28 @@
 
 <br /> ProSystem is a multipurpose Discord bot with a wide range of features including security automoderations, moderation tools, verification, utility, and fun commands
 
-<br /> Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
+ Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
 
 
 ## Categories 📑
-- [x] Fun
+- [x] Admin
+- [x] AutoMod
 - [x] Anime
-- [x] Buttons
-- [x] NSFW (Removed)
+- [x] Economy
+- [x] Fun
+- [x] Giveaway
+- [x] Image
+- [x] Invite
+- [x] Information
+- [x] Moderation
+- [x] Music
+- [x] Owner
+- [x] Social
+- [x] Statistics
+- [x] Suggestion
+- [x] Ticket
 - [x] Utility
-- [X] Image
-- [X] ChatBot
+and More...
 
 ### Commands List 💫 
 
