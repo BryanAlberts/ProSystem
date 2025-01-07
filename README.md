@@ -32,8 +32,6 @@
 
 <br /> ProSystem is a multipurpose Discord bot with a wide range of features including security automoderations, moderation tools, verification, utility, and fun commands
 
- Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
-
 
 ## Categories 📑
 - [x] Admin
