@@ -35,6 +35,26 @@
 <br /> Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...
 
 
+## Categories 📑
+- [x] Fun
+- [x] Anime
+- [x] Buttons
+- [x] NSFW (Removed)
+- [x] Utility
+- [X] Image
+- [X] ChatBot
+
+### Commands List 💫 
+
+PHV has a lot of features, with **8 main categories**:
+
+*   👩‍💼 **Information**: `info`, `help`, `invite` and **2** more! 
+*   🚓 **Anime**: `anime`, `hug`, `karma`, `neko` and **11** more! 
+*   🔲 **Buttons** : `snake`,  and **1** more!
+*   🤖 **ChatBot**: `chatbot` and **2** more! 
+*   👻 **Fun**: `binary`, `clyde`, `comment`, `eject`, `iq`, `reddit` and **8** more!
+*   ✉️ **Other**: `profile`, `addemoji`, `snipe`, `wiki` and **3** more!
+*   👑 **Owner**: `eval`, `reload`, `terminal`
 
 
  <!-- ABOUT THE PROJECT -->
