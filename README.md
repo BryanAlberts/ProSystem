@@ -53,7 +53,6 @@
 - [x] Utility
 and More...
 
-### Commands List 💫 
 
 <h1 align="center"> ✨ Features ✨ </h1>
 
