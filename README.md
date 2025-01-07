@@ -56,11 +56,6 @@ and More...
 
 <h1 align="center"> ✨ Features ✨ </h1>
 
-### 📡 **Advanced Dashboard**
-
-- Manage your servers and make your server-specific settings!
-- Make custom adjustments easy!
-
 ### 🛑 **Powerful Moderation:**
 
 - **Moderation Commands.** <br /> _Commands:_ `ban`, `unban`, `timeout`, `voice moderation`, `deafen`, `move`, `warn`, `setnick`, ...
